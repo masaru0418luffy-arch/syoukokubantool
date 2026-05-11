@@ -1,0 +1,3 @@
+# Streamlit Cloud: date_input の format 引数などは比較的新しい版が必要です
+streamlit>=1.32.0
+pillow>=10.0.0

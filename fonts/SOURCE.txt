@@ -1,0 +1,3 @@
+NotoSansJP-Regular.otf
+Source: https://github.com/googlefonts/noto-cjk (Sans/SubsetOTF/JP)
+License: SIL Open Font License 1.1
